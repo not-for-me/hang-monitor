@@ -1,0 +1,9 @@
+[package]
+name = "hang-monitor"
+version = "0.1.0"
+authors = ["woojin.joe <jwj0831@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4"
+signal-hook = "0.1.6"
